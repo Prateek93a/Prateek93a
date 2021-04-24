@@ -12,5 +12,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 
 -->
-![cartoon](https://user-images.githubusercontent.com/44807945/115950146-2637ca80-a4f7-11eb-80d3-a2e969a18b3b.gif)
+
+<img align="center" width="100%" height="200" src="https://user-images.githubusercontent.com/44807945/115950146-2637ca80-a4f7-11eb-80d3-a2e969a18b3b.gif">
+
