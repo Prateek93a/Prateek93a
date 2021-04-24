@@ -1,3 +1,5 @@
+<img width="512" alt="cartoon1" src="https://user-images.githubusercontent.com/44807945/115950244-bbd35a00-a4f7-11eb-8e1f-1516d9d6822e.png">
+<img width="512" alt="cartoon1" src="https://user-images.githubusercontent.com/44807945/115950254-c392fe80-a4f7-11eb-82f8-3b17c51be6ca.png">
 
 <!--
 **Prateek93a/Prateek93a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,5 +17,5 @@ Here are some ideas to get you started:
 - 
 -->
 
-<img align="center" width="100%" height="200" src="https://user-images.githubusercontent.com/44807945/115950146-2637ca80-a4f7-11eb-80d3-a2e969a18b3b.gif">
+<img align="center" width="100%" height="200" src="https://user-images.githubusercontent.com/44807945/115950257-c7268580-a4f7-11eb-9f29-263fbf3a9948.png">
 
