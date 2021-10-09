@@ -19,6 +19,6 @@ Me after learning linux commands:
 Now I am become rm -rf *, destroyer of worlds
 -->
 
-<!-- <img align="center" width="100%" height="200" src="https://assets.amuniversal.com/4b9def60e14e0137cc29005056a9545d"> -->
- <img align="center" width="100%" height="200" src="https://imgs.xkcd.com/comics/cautionary.png">
+<img align="center" width="100%" height="200" src="https://assets.amuniversal.com/4b9def60e14e0137cc29005056a9545d"> 
+<!--  <img align="center" width="100%" height="200" src="https://imgs.xkcd.com/comics/cautionary.png">-->
 
