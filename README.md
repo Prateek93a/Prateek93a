@@ -22,3 +22,6 @@ Now I am become rm -rf *, destroyer of worlds
 <img align="center" width="100%" height="200" src="https://assets.amuniversal.com/4b9def60e14e0137cc29005056a9545d"> 
 <!--  <img align="center" width="100%" height="200" src="https://imgs.xkcd.com/comics/cautionary.png">-->
 
+[![](https://img.icons8.com/color/32/000000/linkedin.png)](https://www.linkedin.com/in/prateek-jain-339370169/)
+[![](https://img.icons8.com/color/32/000000/twitter.png)](https://twitter.com/prateek93a)
+[![](https://img.icons8.com/plasticine/32/000000/gmail.png)](mailto:prateek93a@gmail.com?Subject=From_GitHub)
