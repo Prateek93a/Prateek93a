@@ -24,4 +24,5 @@ Now I am become rm -rf *, destroyer of worlds
 
 [![](https://img.icons8.com/color/32/000000/linkedin.png)](https://www.linkedin.com/in/prateek-jain-339370169/)
 [![](https://img.icons8.com/color/32/000000/twitter.png)](https://twitter.com/prateek93a)
+[![](https://img.icons8.com/color/32/000000/medium.png)](https://prateek93a.medium.com/)
 [![](https://img.icons8.com/plasticine/32/000000/gmail.png)](mailto:prateek93a@gmail.com?Subject=From_GitHub)
